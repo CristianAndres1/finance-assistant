@@ -1,0 +1,3 @@
+langgraph
+google-generativeai
+langchain-google-genai

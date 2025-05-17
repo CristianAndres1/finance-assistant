@@ -1,0 +1,14 @@
+[project]
+name = "agente-financiero"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.12",
+    "generativeai>=0.0.1",
+    "langchain-google-genai>=2.1.4",
+    "langgraph>=0.4.5",
+    "protobuf>=6.31.0",
+    "rich>=14.0.0",
+    "uvicorn>=0.34.2",
+]
